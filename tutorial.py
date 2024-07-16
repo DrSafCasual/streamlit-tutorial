@@ -3,7 +3,7 @@ import streamlit as st
 
 
 # Title and header and subheading
-st.title('Streamlit Tutorial Title')
+st.title('Streamlit Software Academy Tutorial')
 st.header('Header')
 st.subheader('Subheading')
 
